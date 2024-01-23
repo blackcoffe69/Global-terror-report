@@ -21,7 +21,7 @@
 ### The target type by city has Unknown with the highest 87792 as the highest
 ### Over the years it has been the noticed that the spate of attacks have been from middle east and northern part of africa, most of the major affected are cilivians followed by the
 ### the military, this would have further cause a major short fall in the economic activities in this part of the world,
-<img width="615" alt="glb1" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/40afee76-9c10-4e48-bd6b-458a1e310e41">
+<img width="632" alt="glb1" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/66fc841d-02e6-4e11-a70b-8dc51c2218d0">
 <img width="624" alt="glb2" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/94b6d9d8-c948-4f73-b427-80a955958f1c">
 
 
