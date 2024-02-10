@@ -40,3 +40,6 @@ This is the result after spliting the date from the details about the attack,the
 
 <img width="928" alt="glb blanks" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/918bf367-b3c2-4385-bfdd-f7ea5da57762">
 
+The provstate column also contain some blan column that was removed with the filter tools
+
+
