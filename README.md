@@ -32,7 +32,11 @@ This column contains null values that will greatly affect the outcome of the dat
 
 <img width="928" alt="glb dirty" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/49b24292-3997-42ac-b73a-a34b50350224">
 
-During the cleaning process,I noticed the summary contains dates of attacks with some blank cells,I need to extract the date out since it is critical to the task to evaluate the date of the attacks. This was done by using the split function by delimeter.The blank cells were removed using the filter tool by unchecking the box that creates an effect that applies to all the cells containing blank cells.
+During the cleaning process,I noticed the summary contains dates of attacks with some blank cells,I need to extract the date out since it is critical to the task to evaluate the date of the attacks. 
+
+<img width="910" alt="split" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/d3b66947-a35d-4ab8-9f0e-ccc709cc8bd8">
+
+This was done by using the split function by delimeter.The blank cells were removed using the filter tool by unchecking the box that creates an effect that applies to all the cells containing blank cells.
 
 <img width="904" alt="glb date of attacks" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/3daf7e7a-3cc2-4014-acdc-b232ac9acb6a">
 
