@@ -5,4 +5,28 @@
 
 # Skills demonstrated for this project:
 
-#### . Data cleaning
+#### * Data cleaning
+#### * Filter/tooltips
+#### * Critical analysis
+#### * Data visualition
+#### * Problem solving
+
+# Problem statement
+
+#### - To know the effect of global terror on human lives
+#### - To study the kind of weapon used over time
+#### - To check the trend of the facilities that gets attack most
+#### - To view the part of the world that is most affected by this terror
+
+# Data Sourcing 
+
+##### After critically defining the problem with global terror and what we seek to achive with this analysis,I obtained a xlsx file from kaggle.com and imported it into my Power Bi. I cleaned the data, and then performed my analysis and created visualizations to help answer my questions.
+
+# Data transformation/cleaning
+
+#### The xlxs file was downloaded from kaggle.com imported into Power Bi,the data was dirty so I proceeded to use Power Query in Power Bi Bi to visualize,analyze the data theregy perfoming some critical cleaning using the filter/tooltips.
+
+<img width="919" alt="glb blanks 1" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/e19bbbef-a01e-4425-8044-8f8ad1bcf3c3">
+
+This column contains null values that will greatly affect the outcome of the data set,so I had to convert it to 0 since it is not blank,so if the data is available for it later it can be inputed.
+
