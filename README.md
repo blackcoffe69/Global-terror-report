@@ -32,9 +32,9 @@ This column contains null values that will greatly affect the outcome of the dat
 
 <img width="928" alt="glb dirty" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/49b24292-3997-42ac-b73a-a34b50350224">
 
+Whiile performing the cleaning process,I noticed the summary contains dates of attacks with some blank cells,I need to extract the date out since it is critical to the task to evaluate the date of the attacks. This was done by using the split function by delimeter.
 
-
-Whiile performing the cleaning process,it was found that the province column contain some blank cells, so had to uncheck them to remove the blank cells.
+<img width="904" alt="glb date of attacks" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/3daf7e7a-3cc2-4014-acdc-b232ac9acb6a">
 
 <img width="928" alt="glb blanks" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/918bf367-b3c2-4385-bfdd-f7ea5da57762">
 
