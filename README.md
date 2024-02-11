@@ -47,3 +47,19 @@ This is the result after spliting the date from the details about the attack,the
 The provstate column also contain some blank column that was removed with the filter tools
 
 
+# Data Modelling
+
+#### No data modelling is required for this project.
+
+
+# Analysis and Visualisation :
+
+
+#### I choose to create simple and easy-to-understand visuals. To reflect the situation of global terror, I used their colors of red, white. These colors are also bold and eye-catching, which helps to make the visuals more memorable. I wanted to ensure that the visualization would be easily understood by anyone who viewed it, regardless of their level of expertise.
+
+<img width="586" alt="count" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/7d1b001d-203a-4fbf-a4c4-d4cecd57f56f">
+
+#### I created a silcer that contains all countries so that this will help when choosing each countries anyone can easily see the trends for every tables I created in project. Below it I gave a brief history of the global terror with the view of the year period from 1970 to 2015 which is what we are looking at in the data set provided. The total count of the country involved is 57 country,provided this using the card visualisation tool. Total sum of attacks using card method also is 2210,Total number of people killed 468,total number of wounded people was 330 while nationalities targted was 11k
+
+
+
