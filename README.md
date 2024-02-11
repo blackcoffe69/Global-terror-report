@@ -57,9 +57,19 @@ The provstate column also contain some blank column that was removed with the fi
 
 #### I choose to create simple and easy-to-understand visuals. To reflect the situation of global terror, I used their colors of red, white. These colors are also bold and eye-catching, which helps to make the visuals more memorable. I wanted to ensure that the visualization would be easily understood by anyone who viewed it, regardless of their level of expertise.
 
+
 <img width="586" alt="count" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/7d1b001d-203a-4fbf-a4c4-d4cecd57f56f">
 
-#### I created a silcer that contains all countries so that this will help when choosing each countries anyone can easily see the trends for every tables I created in project. Below it I gave a brief history of the global terror with the view of the year period from 1970 to 2015 which is what we are looking at in the data set provided. The total count of the country involved is 57 country,provided this using the card visualisation tool. Total sum of attacks using card method also is 2210,Total number of people killed 468,total number of wounded people was 330 while nationalities targted was 11k
+#### I created a silcer that contains all countries so that this will help when choosing each countries anyone can easily see the trends for every tables I created in project. Below it I gave a brief history of the global terror with the view of the year period from 1970 to 2015 which is what we are looking at in the data set provided. The total count of the country involved is 57 country,provided this using the card visualisation tool. Total sum of attacks using card method also is 2210,Total number of people killed 468,total number of wounded people was 330 while nationalities targted was 11k.
+
+
+<img width="724" alt="Sum of attack type" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/43b93047-dc65-45d3-8a7e-efe2c25b56cd">
+
+1. Attack type 1, Sum of attack type by Bombing/Explosion was 129 and sum in a day was 709
+2. Attack type 1,Sum of attack type by Armed assault was 24 and sum in a day was 158
+3. Attack type 1,Sum of attack type by Unknown was 9 nd sum in a day was 14
+4. Attack type 1, Sum of attack type by Assasination was 1 anad sum in a day was 14
+
 
 
 
