@@ -71,6 +71,19 @@ The provstate column also contain some blank column that was removed with the fi
 3. Attack type 1,Sum of attack type by Unknown was 9 nd sum in a day was 14
 4. Attack type 1, Sum of attack type by Assasination was 1 anad sum in a day was 14
 
+### Sum of People Wounded in a Day :
 
+<img width="670" alt="sum of nwounded in a day" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/75ff9897-22b5-47c2-ae67-99e3c8abc8f1">
 
+. Within the space of 30 days in a month 24th has the highest number of people wounded 
+. The 4th of the month comes up with no one wounded with value of 0
+
+### Target type by Sum nationalities :
+
+<img width="662" alt="Tagret type and sum of nationality" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/5a43ffb8-a31d-4c2f-8f64-af4b7f8f0203">
+
+The treemap shows the target type with the nationalities involes:
+
+1. Vechile has the total of 1270 nationalities that were attacked in a vehicle
+2. Soldier has the lowest of 4nationalities attacked 
 
