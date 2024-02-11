@@ -62,6 +62,7 @@ The provstate column also contain some blank column that was removed with the fi
 
 #### I created a silcer that contains all countries so that this will help when choosing each countries anyone can easily see the trends for every tables I created in project. Below it I gave a brief history of the global terror with the view of the year period from 1970 to 2015 which is what we are looking at in the data set provided. The total count of the country involved is 57 country,provided this using the card visualisation tool. Total sum of attacks using card method also is 2210,Total number of people killed 468,total number of wounded people was 330 while nationalities targted was 11k.
 
+### Sum of Attack type:
 
 <img width="724" alt="Sum of attack type" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/43b93047-dc65-45d3-8a7e-efe2c25b56cd">
 
