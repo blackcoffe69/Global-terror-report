@@ -87,3 +87,9 @@ The treemap shows the target type with the nationalities involes:
 1. Vechile has the total of 1270 nationalities that were attacked in a vehicle
 2. Soldier has the lowest of 4nationalities attacked 
 
+### Total by month and year :
+
+<img width="628" alt="Suicide by year" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/4f4be622-b727-4ad3-918e-04b23d7c91e0">
+
+1. The year 2005 ranks the highest with the total number 310 suicide within the space of a month.
+2. The year 1998 has the lowest with the total number of 32 within a month
