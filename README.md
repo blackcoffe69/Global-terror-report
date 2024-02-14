@@ -94,7 +94,9 @@ The treemap shows the target type with the nationalities involes:
 1. The year 2005 ranks the highest with the total number 310 suicide within the space of a month.
 2. The year 1998 has the lowest with the total number of 32 within a month
 
-#### The next slide has the card for for total sum of property damaged 201 while 2210 is total number of people wounded.
+<img width="214" alt="nu" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/a6c0cd38-82ad-4209-982f-8c7cc46e72b8">
+
+ The next slide has the card for for total sum of property damaged 201 while 2210 is total number of people wounded.
 
 ## Attackers nationality and Targets
 
