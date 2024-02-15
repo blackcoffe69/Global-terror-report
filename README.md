@@ -142,3 +142,21 @@ This shows the number of weapon used for attacks with each year and total number
 . Assasination 1 country with 153 nationalities involved.
 
 . Unknown 1 country with 42 nationalities involved.
+
+
+## Nationalities targeted most
+
+<img width="636" alt="Nationalities targeted most" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/c98a17b5-e68a-4b0d-8738-12d2debea78b">
+
+. International have the highest sum of nationality targeted with total of 5064
+. Afgahnistan has the lowest with 8
+
+## Individual property targeted by suicide attacks
+
+<img width="638" alt="Individual sucide target type" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/a428dbad-9288-418f-8d89-4f4d0d68f2a8">
+
+. Military has the highest with 47
+
+. Private citizen/property has 4
+
+. while airtport,Business,Educational institution,Government(general),Utilities,Violent political party all have 1.
