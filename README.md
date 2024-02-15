@@ -110,3 +110,35 @@ The treemap shows the target type with the nationalities involes:
 <img width="665" alt="Weapon type by year" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/2c122f64-cee8-4b4f-aecb-37cb0508c45d">
 
 This shows the number of weapon used for attacks with each year and total number of people affected,year 199 ranks the highest with total number of weapon used 6,people affected to be 238
+
+## Weapon by region
+
+<img width="660" alt="weapon by region" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/5ea5fa32-361b-4b2f-bbd3-a095a5394949">
+
+. South Asia shows having the highest weapon type use with the count of 37 followed
+. Middle east and north africa followed with 10
+. NOrth america has the lowest value of 1
+
+## Target by city with count of attacks by establishment
+
+<img width="635" alt="Target by city" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/dec5e72f-31c0-4738-b14c-430c9b57b148">
+
+. Imphal city has the highest sum of target establisment having 2 count in a year
+. Unknow  city also has 16 attacks with 4 count in a year
+. Farah city has 1 attack with only 1 count in a year
+
+## Sum of country by attack type
+
+<img width="635" alt="Sum of country by attack type" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/e4334b23-9794-4d17-9132-c4a71645ffc5">
+
+. The pie chart shows bomb explosion having count of country 41(71.93%) that shows to be the common form of means of attack with 7611 nationalities involved.
+
+. Armed assault is with 11(19.3%) country involved showed 2631 nationalities involved.
+
+. Bombing/Explosion 2(3.51%) country with 467 nationalities involved.
+
+. Armed assault 1 country with 167 nationalities.
+
+. Assasination 1 country with 153 nationalities involved.
+
+. Unknown 1 country with 42 nationalities involved.
