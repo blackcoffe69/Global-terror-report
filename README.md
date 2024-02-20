@@ -168,3 +168,5 @@ This shows the number of weapon used for attacks with each year and total number
 
 
 <img width="621" alt="cpglb2" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/cfb72e26-b0e5-4fdf-ab07-f4c862239a02">
+
+# Conclusion|
