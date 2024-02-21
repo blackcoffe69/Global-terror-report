@@ -102,68 +102,45 @@ The treemap shows the target type with the nationalities involes:
 
 <img width="657" alt="attackers nationality" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/947087d6-d300-456c-8cd2-8aa3f15d5f86">
 
-. From this table the highest nationality that were attacked were in vehicles with a total sum of 1270
-
-. Soldiers were the least with a total number of 4
+Analysis of nationality attacks reveals significant disparities in the targets of terrorist activities. Vehicles emerge as the most frequently targeted, with a total of 1,270 nationalities affected. In stark contrast, soldiers experience the lowest incidence of attacks, with only four nationalities affected. This disparity underscores the varied tactics employed by terrorist groups and highlights the vulnerability of certain populations.
 
 ## Weapon type by year
 
 <img width="665" alt="Weapon type by year" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/2c122f64-cee8-4b4f-aecb-37cb0508c45d">
 
-This shows the number of weapon used for attacks with each year and total number of people affected,year 199 ranks the highest with total number of weapon used 6,people affected to be 238
+Examining the weapon types used in terrorist attacks across different years provides valuable insights into the evolution of tactics. The year 199 ranks the highest in terms of the total number of weapons used, with six incidents recorded, affecting 238 individuals. This data underscores the dynamic nature of terrorist strategies and emphasizes the need for adaptive counterterrorism measures.
 
 ## Weapon by region
 
 <img width="660" alt="weapon by region" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/5ea5fa32-361b-4b2f-bbd3-a095a5394949">
 
-. South Asia shows having the highest weapon type use with the count of 37 followed
-. Middle East and north africa followed with 10
-. North America has the lowest value of 1
+Regional analysis reveals significant variations in the prevalence of weapon types used in terrorist activities. South Asia emerges as the region with the highest weapon type use, with 37 incidents recorded, followed by the Middle East and North Africa with 10 incidents. Conversely, North America experiences the lowest incidence of weapon use, with only one recorded incident. These regional disparities highlight the complex geopolitical dynamics that contribute to the proliferation of terrorism.
 
 ## Target by city with count of attacks by  establishments
 
 <img width="635" alt="Target by city" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/dec5e72f-31c0-4738-b14c-430c9b57b148">
 
-. Imphal city has the highest sum of target  establishments having 2 counts in a year
-. Unknown  city also has 16 attacks with 4 counts in a year
-. Farah city has 1 attack with only 1 count in a year
+Analysis of target locations sheds light on the geographic distribution of terrorist activities. Imphal city emerges as the most heavily targeted, with two establishments attacked in a single year. Additionally, Unknown city records 16 attacks with four incidents in a year, underscoring the challenges associated with identifying and preventing terrorist threats in certain regions.
 
 ## Sum of country by attack type
 
 <img width="635" alt="Sum of country by attack type" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/e4334b23-9794-4d17-9132-c4a71645ffc5">
 
-. The pie chart shows bomb explosions having count of country 41(71.93%) that shows to be the common form of means of attack with 7611 nationalities involved.
-
-. Armed assault with 11(19.3%) countries involved showed 2631 nationalities involved.
-
-. Bombing/Explosion 2(3.51%) country with 467 nationalities involved.
-
-. Armed assault 1 country with 167 nationalities.
-
-. Assasination 1 country with 153 nationalities involved.
-
-. Unknown 1 country with 42 nationalities involved.
+Pie chart analysis reveals the prevalence of different forms of terrorist attacks across countries. Bomb explosions are the most common means of attack, accounting for 71.93% of incidents and involving 7,611 nationalities. Armed assaults and bombings/explosions follow, with 19.3% and 3.51% of incidents, respectively. These findings highlight the diverse tactics employed by terrorist groups and the need for multifaceted counterterrorism strategies.
 
 
 ## Nationalities targeted most
 
 <img width="636" alt="Nationalities targeted most" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/c98a17b5-e68a-4b0d-8738-12d2debea78b">
 
-. Internationals have the highest sum of nationality targeted with a total of 5064
-
-. Afghanistan has the lowest with 8
+Analysis of nationalities targeted underscores the global nature of terrorism. International individuals bear the brunt of terrorist attacks, with a total of 5,064 nationalities affected. In contrast, Afghanistan records the lowest incidence of attacks, with only eight nationalities affected. These findings emphasize the need for international cooperation and solidarity in combating terrorism.
 
 
 ## Individual property targeted by suicide attacks
 
 <img width="638" alt="Individual sucide target type" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/a428dbad-9288-418f-8d89-4f4d0d68f2a8">
 
-. Military has the highest with 47
-
-. Private citizen/property has 4
-
-. while Airport,Business,Educational institution,Government(general),Utilities,Violent political party all have 1.
-
+Analysis of individual property targeted by suicide attacks reveals the diverse range of targets. Military installations experience the highest incidence of attacks, with 47 incidents recorded. Private citizens/property follow, with four incidents, while airports, businesses, educational institutions, government facilities, utilities, and violent political parties each record one incident. These findings highlight the indiscriminate nature of terrorist attacks and the importance of protecting critical infrastructure and civilian populations.
 
 ## Here are the dashboards:
 
