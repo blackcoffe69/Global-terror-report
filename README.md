@@ -60,7 +60,7 @@ The provstate column also contain some blank column that was removed with the fi
 
 <img width="586" alt="count" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/7d1b001d-203a-4fbf-a4c4-d4cecd57f56f">
 
-#### I created a silcer that contains all countries so that this will help when choosing each countries anyone can easily see the trends for every tables I created in project. Below it I gave a brief history of the global terror with the view of the year period from 1970 to 2015 which is what we are looking at in the data set provided. The total count of the country involved is 57 country,provided this using the card visualisation tool. Total sum of attacks using card method also is 2210,Total number of people killed 468,total number of wounded people was 330 while nationalities targted was 11k.
+#### I created a silcer that contains all countries so that this will help when choosing each countries anyone can easily see the trends for every tables I created in project. Below it I gave a brief history of the global terror with the view of the year period from 1970 to 2015 which is what we are looking at in the data set provided. The total count of the country involved is 57 country,provided this using the card visualization tool. Total sum of attacks using card method also is 2210,Total number of people killed 468,total number of wounded people was 330 while nationalities targeted was 11k.
 
 ### Sum of Attack type:
 
@@ -69,7 +69,7 @@ The provstate column also contain some blank column that was removed with the fi
 1. Attack type 1, Sum of attack type by Bombing/Explosion was 129 and sum in a day was 709
 2. Attack type 1,Sum of attack type by Armed assault was 24 and sum in a day was 158
 3. Attack type 1,Sum of attack type by Unknown was 9 nd sum in a day was 14
-4. Attack type 1, Sum of attack type by Assasination was 1 anad sum in a day was 14
+4. Attack type 1, Sum of attack type by Assassination was 1 anad sum in a day was 14
 
 ### Sum of People Wounded in a Day :
 
@@ -84,8 +84,8 @@ The provstate column also contain some blank column that was removed with the fi
 
 The treemap shows the target type with the nationalities involes:
 
-1. Vechile has the total of 1270 nationalities that were attacked in a vehicle
-2. Soldier has the lowest of 4nationalities attacked 
+1. Vehicle has a total of 1270 nationalities that were attacked in vehicle
+2. Soldier has the lowest of nationalities attacked
 
 ### Total by month and year :
 
@@ -96,13 +96,14 @@ The treemap shows the target type with the nationalities involes:
 
 <img width="214" alt="nu" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/a6c0cd38-82ad-4209-982f-8c7cc46e72b8">
 
- The next slide has the card for for total sum of property damaged 201 while 2210 is total number of people wounded.
-
-## Attackers nationality and Targets
+ The next slide has the card for the total sum of property damaged 201 while 2210 is the total number of people wounded.
+ 
+ ## Attackers nationality and Targets
 
 <img width="657" alt="attackers nationality" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/947087d6-d300-456c-8cd2-8aa3f15d5f86">
 
-. From this table the highest nationality that were attacked were in vehicles with the total sum of 1270
+. From this table the highest nationality that were attacked were in vehicles with a total sum of 1270
+
 . Soldiers were the least with a total number of 4
 
 ## Weapon type by year
@@ -116,24 +117,24 @@ This shows the number of weapon used for attacks with each year and total number
 <img width="660" alt="weapon by region" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/5ea5fa32-361b-4b2f-bbd3-a095a5394949">
 
 . South Asia shows having the highest weapon type use with the count of 37 followed
-. Middle east and north africa followed with 10
-. NOrth america has the lowest value of 1
+. Middle East and north africa followed with 10
+. North America has the lowest value of 1
 
-## Target by city with count of attacks by establishment
+## Target by city with count of attacks by  establishments
 
 <img width="635" alt="Target by city" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/dec5e72f-31c0-4738-b14c-430c9b57b148">
 
-. Imphal city has the highest sum of target establisment having 2 count in a year
-. Unknow  city also has 16 attacks with 4 count in a year
+. Imphal city has the highest sum of target  establishments having 2 counts in a year
+. Unknown  city also has 16 attacks with 4 counts in a year
 . Farah city has 1 attack with only 1 count in a year
 
 ## Sum of country by attack type
 
 <img width="635" alt="Sum of country by attack type" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/e4334b23-9794-4d17-9132-c4a71645ffc5">
 
-. The pie chart shows bomb explosion having count of country 41(71.93%) that shows to be the common form of means of attack with 7611 nationalities involved.
+. The pie chart shows bomb explosions having count of country 41(71.93%) that shows to be the common form of means of attack with 7611 nationalities involved.
 
-. Armed assault is with 11(19.3%) country involved showed 2631 nationalities involved.
+. Armed assault with 11(19.3%) countries involved showed 2631 nationalities involved.
 
 . Bombing/Explosion 2(3.51%) country with 467 nationalities involved.
 
@@ -148,8 +149,10 @@ This shows the number of weapon used for attacks with each year and total number
 
 <img width="636" alt="Nationalities targeted most" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/c98a17b5-e68a-4b0d-8738-12d2debea78b">
 
-. International have the highest sum of nationality targeted with total of 5064
-. Afgahnistan has the lowest with 8
+. Internationals have the highest sum of nationality targeted with a total of 5064
+
+. Afghanistan has the lowest with 8
+
 
 ## Individual property targeted by suicide attacks
 
@@ -159,7 +162,7 @@ This shows the number of weapon used for attacks with each year and total number
 
 . Private citizen/property has 4
 
-. while airtport,Business,Educational institution,Government(general),Utilities,Violent political party all have 1.
+. while Airport,Business,Educational institution,Government(general),Utilities,Violent political party all have 1.
 
 
 ## Here are the dashboards:
@@ -169,4 +172,5 @@ This shows the number of weapon used for attacks with each year and total number
 
 <img width="621" alt="cpglb2" src="https://github.com/blackcoffe69/Global-terror-visualization/assets/154302970/cfb72e26-b0e5-4fdf-ab07-f4c862239a02">
 
-# Conclusion|
+# Conclusion :
+In conclusion, our analysis of global terrorism reveals the multifaceted nature of this complex phenomenon. By examining nationality attacks, weapon types, target locations, attack methods, and individual property targeted by suicide attacks, we gain valuable insights into the patterns and trends of terrorism. These insights can inform the development of effective counterterrorism strategies aimed at safeguarding lives and promoting peace and security worldwide. Addressing the root causes of terrorism and fostering international cooperation are essential steps in mitigating this persistent threat.
