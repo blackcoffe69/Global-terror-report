@@ -1,6 +1,14 @@
-# Introduction 
+# Global Terror Report
 
-#### This is a Power Bi project on global terrorism, the reason for this project is to track the event of terrorism across the globle,to view the impact on human, properties, looking at the types of weapon been used, where attackers target more, period of the year where attacks are most likely to be high, the region of the world mostly affected by these attacks,the terrorist organisation involved, the casuality figures.
+- This project presents a comprehensive analysis of global terrorism and its profound impact on human populations worldwide. The report meticulously examines the various ramifications, including the regions most affected by attacks, the types of weapons employed, the modes of attack, and the methods by which these acts of terrorism are executed.
+
+# Data source
+- The data is from a csv file containing details of the terorr attack over the period of years.
+[Download Here](https://www.kaggle.com/code/gpreda/global-terrorist-attacks)
+
+  # Introduction
+- This project delves into the intricate landscape of global terrorism, driven by the imperative to monitor and analyze terrorist activities worldwide. Its core objective is to meticulously examine the multifaceted impact of terrorism on human lives and property. By scrutinizing factors such as the types of weapons utilized, preferred targets of attackers, peak periods of heightened attacks, the most affected regions, involved terrorist organizations, and casualty statistics, this endeavor seeks to provide invaluable insights into the complex phenomenon of terrorism.
+  
 #### The goal is to get insightful knowledge on the trend and activites of terrorist organisations accross the globe.
 
 # Skills demonstrated for this project:
